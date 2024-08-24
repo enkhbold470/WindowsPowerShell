@@ -1,4 +1,4 @@
-﻿oh-my-posh.exe init pwsh --config "C:\Users\Posh\1_shell.omp.json" | Invoke-Expression
+﻿oh-my-posh.exe init pwsh --config "C:\Users\Posh\cloud-context.omp.json" | Invoke-Expression
 
 #region conda initialize
 # !! Contents within this block are managed by 'conda init' !!
